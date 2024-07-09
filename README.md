@@ -14,7 +14,7 @@ O bot foi criado para facilitar a interação em grupos do Telegram ao reagir au
    - Ao identificar uma palavra-chave definida no arquivo JSON de configuração (`reactions.json`), o bot envia automaticamente um emoji associado à palavra-chave como reação à mensagem.
 
 2. **Perfil Personalizado:** 
-    - O bot pode ser personalizado com o avatar do seu perfil pessoal, ao invéz de usar o avatar criado no @botfather.
+    - O bot pode ser personalizado com o avatar do seu perfil pessoal, ao invés de usar o avatar criado no @botfather.
 
 ## PROCEDIMENTO DE COMPRA:
 - Para efetuar a compra, por favor, entre em contato comigo por mensagem privada, informando:
